@@ -1,2 +1,2 @@
 # demojabeerbasha
-this is a project created to demonstrate creation of 
+this is a project created to demonstrate creation of developer
